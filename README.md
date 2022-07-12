@@ -1,2 +1,2 @@
 # Capstone-3-Used-Car-Analysis
-Analysis of Used vehicles from 1994 to 2020 in India
+For my final project I was tasked with analyzing a dataset I selected from kaggle. The dataset contained information of used vehicles from India. I also was tasked with creating a business objective and testing hypotheses to support the business question. I created visualiztions and tables to develop a story and contribute to my testing. All of this was done in Google Colab. 
